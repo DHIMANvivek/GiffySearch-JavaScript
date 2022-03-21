@@ -1,3 +1,3 @@
 # GiffySearch-JavaScript
 
-https://1blockchain.me/GiffySearch-JavaScript/
+http://androidtask.com/GiffySearch-JavaScript/
